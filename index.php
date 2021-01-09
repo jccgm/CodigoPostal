@@ -14,7 +14,7 @@ include 'consumir.php'
 </head>
 <body>
     <h1 class="p-2 text-center">Codigo Postales Ciudad Mexico</h1>
-    <table id="tbusuarios" class="table table-striped table-hover table-bordered">
+    <table class="table table-striped table-hover table-bordered">
         <thead>
           <tr>
             <th>Codigo Postal</th>
